@@ -1,6 +1,6 @@
 # wikiversity-2013
 
-The materials in this repository were published before on German Wikiversity and on Wikimedia Commons. They were produced in the run-up to the first (and, hitherto, only) meeting of users interested in German Wikiversity which took place in 2013 at Limburg an der Lahn, Germany. 
+The material in this repository was published before on German Wikiversity and on Wikimedia Commons. They were produced in the run-up to the first (and, hitherto, only) meeting of users interested in German Wikiversity which took place in 2013 at Limburg an der Lahn, Germany. 
 
 In June 2013 I wrote an essay on the prospect for Wikiversity within the German education and media landscape. At the meeting I gave an introduction to start the conversation, outlining the development of the project and our plans for the future at the time. 
 
